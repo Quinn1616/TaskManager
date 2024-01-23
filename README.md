@@ -9,4 +9,4 @@ This is a simple c++ task manager console application that allows a user to add 
 3. **Display Task List:** Allows the user to display the current task list as well as the completion status of them.
 
 ## Video Link
-
+https://www.youtube.com/watch?v=7HROBn_Vz5g
